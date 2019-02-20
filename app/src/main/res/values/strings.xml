@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LanguageSupport</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Hi! Welcome to Language Support Demo</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LanguageSupport</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">नमस्ते! भाषा समर्थन डेमो में आपका स्वागत है</string>
+</resources>
